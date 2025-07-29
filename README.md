@@ -153,6 +153,7 @@ Struktur & Dokumentation orientieren sich am [CRISP-DM](https://www.ibm.com/docs
 
 **Pfadstruktur:**
 
+```
 DATA-MINING/
 ├── input/                         # Eingabedaten
 │   └── data_churn_bank.csv        # Ursprünglicher Datensatz
@@ -163,6 +164,7 @@ DATA-MINING/
 ├── churn_classification.ipynb     # Modellierung, Evaluation, Explainability
 ├── requirements.txt               # Python-Abhängigkeiten
 └── .gitignore
+```
 
 
 **Zentrale Einstellungen:**
