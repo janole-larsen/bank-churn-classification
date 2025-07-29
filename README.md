@@ -38,6 +38,7 @@ Struktur & Dokumentation orientieren sich am [CRISP-DM](https://www.ibm.com/docs
   * *Profiling*: Verteilungen, Kreuztabellen, Zielklassen-Imbalance (80:20).
   * *Keine* fehlenden Werte, *keine* Duplikate.
   * *Erkenntnisse & Schlussfolgerungen für Preprocessing*:
+
 | Feature         | Wichtigkeit für Modell | Verteilung/Besonderheit                  | Empfehlung/Fazit                               |
 | --------------- | ---------------------- | ---------------------------------------- | ---------------------------------------------- |
 | CreditScore     | Hoch                   | \~Normal, Peak bei 850                   | Stark erklärend für Churn, skalieren           |
