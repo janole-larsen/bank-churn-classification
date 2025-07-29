@@ -94,7 +94,7 @@ Struktur & Dokumentation orientieren sich am [CRISP-DM](https://www.ibm.com/docs
 
   * Logistic Regression (LR)
   * Random Forest (RF)
-  * XGBoost (XGB)
+  * XGBoost (XGB) <- Finales Modell
 * **Hyperparameter-Tuning:**
 
   * `RandomizedSearchCV` + `Optuna
